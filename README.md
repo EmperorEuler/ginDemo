@@ -5,6 +5,15 @@
 基于gin框架的demo项目,本项目基于B站视频Go语言 Gin+Vue 前后端分离实战 - OceanLearn
 [https://www.bilibili.com/video/BV1CE411H7bQ?t=7](https://www.bilibili.com/video/BV1CE411H7bQ?t=7)
 
+## 实现功能:
+1.登录、注册、查看登录用户信息、文章分类的增删改查、文章发布的增删改查、文章分页 
+
+
+2.中间件：（1）处理跨域问题 （2）用jwt加密用户登录信息检测用户登录状态 （3）捕获异常
+
+
+3.数据库：mysql
+
 **master**分支为后端go代码,**vue**分支为前端vue代码
 
 ## 二、怎样运行该项目
